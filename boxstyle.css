@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  height: 100vh;
+  color: white;
+}
+.Box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+.Box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+.Box3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.Box4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
